@@ -1,31 +1,33 @@
-### Hi there, I'm Railgun19457 👋
+## About me
+- College student
+- Hobbyist developer
+- Interested in Anime, Games, AI, Minecraft Server and Embedded Development
 
-A developer who is always curious.
+---
 
-## 🔭 About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
-## 🛠️ Skills
+## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=railgun19457&show_icons=true&theme=transparent" alt="railgun19457's GitHub stats" />
+## Github  Statistics
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=railgun19457&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railgun19457&layout=donut&theme=transparent" />
+</p>
+
+---
+
+<details>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=railgun19457&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
+> *"Only my railgun can shoot it!" —— ⚡*
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=railgun19457&theme=transparent" alt="Contribution Streak" />
-</p>
+</details>
