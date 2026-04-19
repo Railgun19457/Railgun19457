@@ -27,7 +27,8 @@
 ---
 
 <details>
+  <summary>DO NOT CLICK HERE ! ! !</summary>
   
-> *"Only my railgun can shoot it!" —— ⚡*
+  > *"Only my railgun can shoot it!" —— ⚡*
 
 </details>
