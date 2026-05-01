@@ -20,8 +20,8 @@
 ## Github  Statistics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=railgun19457&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railgun19457&layout=donut&theme=transparent" />
+  <img height="180em" src="/profile/stats.svg" />
+  <img height="180em" src="/profile/top-langs.svg" />
 </p>
 
 ---
