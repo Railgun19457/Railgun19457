@@ -17,11 +17,19 @@
 
 ---
 
-## Github  Statistics
+## Github Statistics
 
 <p align="left">
   <img height="180em" src="/profile/stats.svg" />
   <img height="180em" src="/profile/top-langs.svg" />
+</p>
+
+---
+
+## Visitors Count
+
+<p align="left">
+  <img src="https://count.getloli.com/@Railgun19457?name=Railgun19457&theme=rule34&padding=7&offset=10&align=center&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
 ---
