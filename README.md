@@ -3,7 +3,6 @@
 - Hobbyist developer
 - Interested in Anime, Games, AI, Minecraft Server and Embedded Development
 
----
 
 ## Tech Stack
 
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
 
 ## Github Statistics
 
@@ -24,7 +22,6 @@
   <img height="180em" src="/profile/top-langs.svg" />
 </p>
 
----
 
 ## Visitors Count
 
@@ -32,7 +29,6 @@
   <img src="https://count.getloli.com/@Railgun19457?name=Railgun19457&theme=rule34&padding=7&offset=10&align=center&scale=2&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
----
 
 <details>
   <summary>DO NOT CLICK HERE ! ! !</summary>
